@@ -1,0 +1,7 @@
+14
+b_energized_blu
+blacklist
+active
+https://github.com/AdroitAdorKhan/Energized
+link
+https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts
