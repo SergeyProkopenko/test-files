@@ -123,6 +123,14 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists
 link
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 
+81
+b_social
+blacklist
+inactive
+https://tut.by
+link
+https://tut.by
+
 
 20
 b_app_vending
@@ -248,3 +256,4 @@ active
 http://blokada.org
 app
 com.xda.labs
+
